@@ -1,4 +1,4 @@
-# Diretrizes para Programação JavaScript
+# Diretrizes para Programação JavaScript Desmodularizada
 
 ## Filosofia Fundamental
 
