@@ -10,6 +10,18 @@ Trabalhamos com uma abordagem **desmodularizada e controlada**, onde:
 * A reutilização de código e estilos é priorizada
 * Cada alteração é feita com pleno conhecimento do contexto
 
+## Estrutura de Diretórios
+
+```
+projeto/
+├── src/
+│   ├── core/              # Funcionalidades essenciais e utilitários globais
+│   ├── utils/             # Utilitários compartilhados
+│   └── services/          # Serviços para comunicação externa
+├── tests/                 # Testes automatizados
+└── docs/                  # Documentação específica
+```
+
 ## Diretrizes para Cada Ação de Desenvolvimento
 
 ### Desenvolvimento Desmodularizado
